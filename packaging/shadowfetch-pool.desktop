@@ -1,0 +1,14 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Shadowfetch Pool
+GenericName=Pool
+Comment=8-Ball and 9-Ball for Linux
+Exec=shadowfetch-pool
+TryExec=shadowfetch-pool
+Icon=shadowfetch-pool
+Terminal=false
+Categories=Game;
+Keywords=pool;billiards;8-ball;9-ball;shadowfetch;
+StartupNotify=true
+StartupWMClass=Shadowfetch Pool
