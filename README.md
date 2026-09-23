@@ -12,7 +12,7 @@
 ~/.local/bin/shadowfetch-pool
 ```
 
-Development: `godot --path "$HOME/src/ShadowfetchPool"`
+Development: `godot --path .`
 
 ## Tests
 
